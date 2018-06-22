@@ -1,10 +1,13 @@
 /*
-	This code shows an efficient implementation to pre-compute Euler's totient 
-	of first 1000 numbers.
-	
-	References: 
-	(a) Linear sieve alogirhtm from http://e-maxx.ru/algo/prime_sieve_linear
-	(b) Precalculating phi function 1..N by @savinov - http://codeforces.com/blog/entry/10119
+*	Program Title: Pre-compute Euler's totient of first 1000 numbers
+*	Author: Utkal Sinha	
+*
+*	This program shows an efficient implementation to pre-compute Euler's totient 
+*	of first 1000 numbers.
+*	
+*	References: 
+*	(a) Linear sieve alogirhtm from http://e-maxx.ru/algo/prime_sieve_linear
+*	(b) Precalculating phi function 1..N by @savinov - http://codeforces.com/blog/entry/10119
 */
 
 #include <bits/stdc++.h>
